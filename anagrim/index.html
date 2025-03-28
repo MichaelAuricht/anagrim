@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anagram Generator</title>
+</head>
+<body>
+    <div>
+        <label for="nameInput">Enter a Name:</label>
+        <input type="text" id="nameInput" placeholder="Type a name...">
+        <button onclick="generateAnagrams()">Generate Anagram</button>
+    </div>
+    <div>
+        <h3>Random Anagram (Using Curated Words):</h3>
+        <p id="randomAnagram"></p>
+        <h3>Name-Based Anagram:</h3>
+        <p id="nameBasedAnagram"></p>
+    </div>
+
+    <script src="wordlist.js"></script>
+    <script src="namelist.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
