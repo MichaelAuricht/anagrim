@@ -1,3 +1,36 @@
 {
-    "names": ["Alice", "Bob", "Charlie", "David", "Eve", "Frank"]
-}
+    "names": {
+      "Alexander": ["Alex", "Xander", "Lex"],
+      "Andrew": ["Andy", "Drew"],
+      "Anthony": ["Tony"],
+      "Benjamin": ["Ben", "Benny", "Benji"],
+      "Charles": ["Charlie", "Chuck", "Chaz"],
+      "Christopher": ["Chris", "Topher", "Kit"],
+      "Daniel": ["Dan", "Danny"],
+      "David": ["Dave", "Davy"],
+      "Edward": ["Ed", "Eddie", "Ted", "Teddy", "Ned"],
+      "Elizabeth": ["Liz", "Lizzie", "Beth", "Betsy", "Eliza", "Liza"],
+      "Emily": ["Em", "Millie"],
+      "Frederick": ["Fred", "Freddie", "Rick", "Ricky"],
+      "Henry": ["Harry", "Hank"],
+      "James": ["Jim", "Jimmy", "Jamie"],
+      "John": ["Johnny", "Jack", "Jon"],
+      "Jonathan": ["Jon", "Johnny", "Nate"],
+      "Joseph": ["Joe", "Joey"],
+      "Katherine": ["Kate", "Katie", "Kat", "Kathy"],
+      "Margaret": ["Maggie", "Meg", "Peggy", "Margie"],
+      "Matthew": ["Matt", "Matty"],
+      "Michael": ["Mike", "Mikey"],
+      "Nicholas": ["Nick", "Nicky", "Cole"],
+      "Patrick": ["Pat", "Paddy", "Rick"],
+      "Richard": ["Rich", "Ricky", "Dick", "Dickie"],
+      "Robert": ["Rob", "Bob", "Bobby", "Robbie"],
+      "Samuel": ["Sam", "Sammy"],
+      "Sarah": ["Sally", "Sadie"],
+      "Theodore": ["Theo", "Teddy"],
+      "Thomas": ["Tom", "Tommy"],
+      "Victoria": ["Vicky", "Tori", "Vic"],
+      "William": ["Will", "Bill", "Billy", "Liam"]
+    }
+  }
+  
